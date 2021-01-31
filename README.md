@@ -20,7 +20,7 @@ https://xz.aliyun.com/t/8674（浅论《关于域名攻击面发现》技术方�
 python3 bro_domain.py baidu.com
 ```
 
-![](D:\h0pe_scan\img\QQ截图20210131211556.png)
+![](https://github.com/Shu1L/bro_domain/blob/master/img/QQ%E6%88%AA%E5%9B%BE20210131211556.png)
 
 #### todo
 
