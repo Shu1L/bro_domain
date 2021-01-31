@@ -10,7 +10,7 @@ SRC漏洞挖掘前期对企业兄弟域名进行收集的一款小工具。
 
 https://xz.aliyun.com/t/8674（浅论《关于域名攻击面发现》技术方向的想法）
 
-![](D:\h0pe_scan\img\liuchentu.jpg)
+![](https://github.com/Shu1L/bro_domain/blob/master/img/liuchentu.jpg)
 
 
 
